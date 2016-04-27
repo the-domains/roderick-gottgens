@@ -1,0 +1,28 @@
+name: Roderick Gottgens
+favicon: null
+layout_spectrum: 0.365160099696368
+typography_spectrum: 0.834980882005766
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7212773263454437
+  lightness: 0.6863466408103704
+  saturation: 0.9146159109659493
+  rhythmicContrast: 0.6398702093865722
+purpose: []
