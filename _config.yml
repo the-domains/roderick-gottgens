@@ -1,9 +1,7 @@
-favicon: null
 name: Roderick Gottgens
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.891604
+typography_spectrum: 0.1290051
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 1
-  brandStrength: 0.7212773263454437
-  lightness: 0.02192982
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  rhythmicContrast: 0
-typography_spectrum: 0.1290051
-layout_spectrum: 0.891604
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#4b5a6b'
+    - '#a1aab3'
+    - '#dadde3'
+    - '#858c91'
+    - '#1f2316'
+  brandStrength: 1
+  lightness: 0.8125
+  saturation: 1
+  rhythmicContrast: 1
+purpose: []
