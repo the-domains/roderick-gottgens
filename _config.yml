@@ -1,5 +1,7 @@
-favicon: null
-name: Roderick Gottgens
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -29,12 +31,10 @@ color:
     - '#160600'
   lightness: 0.6863466408103704
 typography_spectrum: 0.1290051
-layout_spectrum: 0
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
   bucket: null
   version: null
   domain: null
+layout_spectrum: 0.891604
+favicon: null
+name: Roderick Gottgens
