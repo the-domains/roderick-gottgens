@@ -1,16 +1,25 @@
 ---
-author: []
-datePublished: '2016-04-27T06:15:12.534Z'
-published: true
-title: Test post Roderick
-description: ''
-sourcePath: _posts/2016-04-27-test-post-roderick.md
-dateModified: '2016-04-27T06:13:58.630Z'
-starred: false
 inFeed: true
 hasPage: false
 inNav: false
-_type: MediaObject
+isBasedOnUrl: null
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-04-27T06:33:31.579Z'
+dateModified: '2016-04-27T06:29:15.595Z'
+author: []
+published: true
+title: Test post Roderick
+sourcePath: _posts/2016-04-27-test-post-roderick.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
+_type: Blurb
 
 ---
 # Test post Roderick
@@ -18,4 +27,4 @@ _type: MediaObject
 This is a first post to start looking at theGrid. I'm excited to see how this will work.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/306a406f-c3a2-4f31-b10e-99ca579d0f61.jpg)
 
-This is me, smiling at my best.
+This is me, smiling at my best 😀
