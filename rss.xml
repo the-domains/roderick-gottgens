@@ -4,8 +4,15 @@
         <description><![CDATA[Roderick Gottgens on theGrid.ai]]></description>
         <link>https://thegrid.ai/roderick-gottgens/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 07:48:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 07:51:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/roderick-gottgens/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New post on April 28th]]></title>
+            <description><![CDATA[<p>New post on Thursday April 28th 2016.</p>]]></description>
+            <link>https://thegrid.ai/roderick-gottgens/new-post-on-april-28th/index.html</link>
+            <guid isPermaLink="false">1c470721-a5e4-4492-a0cc-c7febfa26015</guid>
+            <pubDate>Thu, 28 Apr 2016 07:51:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Test post Roderick]]></title>
             <description><![CDATA[<article><h1>Test post Roderick</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/306a406f-c3a2-4f31-b10e-99ca579d0f61.jpg"></article>]]></description>
