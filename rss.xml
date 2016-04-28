@@ -4,8 +4,15 @@
         <description><![CDATA[Roderick Gottgens on theGrid.ai]]></description>
         <link>https://thegrid.ai/roderick-gottgens/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 07:48:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 07:48:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/roderick-gottgens/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test post Roderick]]></title>
+            <description><![CDATA[<article><h1>Test post Roderick</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/306a406f-c3a2-4f31-b10e-99ca579d0f61.jpg"></article>]]></description>
+            <link>https://thegrid.ai/roderick-gottgens/test-post-roderick/index.html</link>
+            <guid isPermaLink="false">369608d0-6765-46b1-8222-d8935c60b52f</guid>
+            <pubDate>Thu, 28 Apr 2016 07:48:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The most beautiful place on earth]]></title>
             <description><![CDATA[<article><h1>The most beautiful place on earth</h1><p>This silent and sacred place can be found in the middle of Tuscany, Italy. It is called "Abbazzia di Sant'Antimo". If you're ever nearby Montepulciano, take the time to visit this sacred place. It's the worth the drive!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e2888e36427eca3b8a7aecbfac86082e211ee5d.jpg"></article>]]></description>
