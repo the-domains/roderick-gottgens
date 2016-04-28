@@ -34,8 +34,8 @@ color:
     - '#dadde3'
     - '#858c91'
     - '#1f2316'
-  brandStrength: 0.3709677
-  lightness: 0.8125
+  brandStrength: 0
+  lightness: 0
   saturation: 1
-  rhythmicContrast: 1
+  rhythmicContrast: 0.75
 purpose: []
