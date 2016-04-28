@@ -1,13 +1,12 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+hasPage: true
+inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-27T06:36:14.342Z'
-dateModified: '2016-04-27T06:33:37.358Z'
+datePublished: '2016-04-28T07:48:27.153Z'
+dateModified: '2016-04-28T07:48:26.690Z'
 author: []
 published: true
 title: Test post Roderick
@@ -19,7 +18,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-_type: Blurb
+url: test-post-roderick/index.html
+_type: Article
 
 ---
 # Test post Roderick
