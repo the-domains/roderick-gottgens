@@ -1,41 +1,41 @@
-name: Roderick Gottgens
-favicon: null
-layout_spectrum: 0.891604
-typography_spectrum: 0
 title: Roderick Gottgens on theGrid.ai
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 0
+  brandColors:
+    - '#2F261D'
+    - '#868C98'
+    - '#B1B1AF'
+    - '#E7D3B2'
+    - '#FFA762'
+  rhythmicContrast: 0.75
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Roderick Gottgens
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#4b5a6b'
-    - '#a1aab3'
-    - '#dadde3'
-    - '#858c91'
-    - '#1f2316'
-  brandStrength: 0
-  lightness: 0
-  saturation: 1
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0
+layout_spectrum: 0.891604
