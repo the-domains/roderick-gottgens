@@ -5,10 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-28T07:48:27.153Z'
-dateModified: '2016-04-28T07:48:26.690Z'
+datePublished: '2016-08-31T18:11:08.242Z'
+dateModified: '2016-08-31T18:11:07.676Z'
 author: []
-published: true
 title: Test post Roderick
 sourcePath: _posts/2016-04-27-test-post-roderick.md
 authors: []
@@ -17,6 +16,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+via: {}
 starred: false
 url: test-post-roderick/index.html
 _type: Article
