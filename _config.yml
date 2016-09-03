@@ -1,5 +1,34 @@
-title: Roderick Gottgens on theGrid.ai
-purpose: []
+typography_spectrum: 0
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 0
+  brandColors:
+    - '#2F261D'
+    - '#868C98'
+    - '#B1B1AF'
+    - '#E7D3B2'
+    - '#FFA762'
+  rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.891604
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Roderick Gottgens
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: Test post Roderick
+    id: 369608d0-6765-46b1-8222-d8935c60b52f
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +41,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 1
-  brandStrength: 1
-  lightness: 0
-  brandColors:
-    - '#2F261D'
-    - '#868C98'
-    - '#B1B1AF'
-    - '#E7D3B2'
-    - '#FFA762'
-  rhythmicContrast: 0.75
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Roderick Gottgens
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0
-layout_spectrum: 0.891604
+title: Roderick Gottgens on theGrid.ai
+purpose: []
